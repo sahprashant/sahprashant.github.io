@@ -10,11 +10,12 @@ Cyber-crime is the biggest concerns around the world as per the statistics prese
 Let's talk about the some of the steps that is used to design an attack model for penetration testing.
 
 1. **Reconnisance**
-      a. Data Identification.
-      b. Input Analysis.
-      c. System Endpoint.
-      d. Port Connectivity.
-      e. System Configuration.
+
+     ** a. Data Identification. **
+     ** b. Input Analysis.**
+     ** c. System Endpoint. **
+     ** d. Port Connectivity. **
+     ** e. System Configuration.**
       
       ......Continued.
       
